@@ -1,5 +1,7 @@
 ## hey 👋
-I'm a guy. 😄
+I'm just a guy. :)
+
+Right now, I use **Arch Linux** with **Sway**.
 
 Currently learning Rust for personal purposes.
 
