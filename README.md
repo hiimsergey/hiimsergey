@@ -1,11 +1,9 @@
 ## hey 👋
-I'm just a guy. :)
+Welcome to my humble profile.
 
-Right now, I use **Arch Linux** with **Sway**.
-
-Currently learning Rust for personal purposes.
-
-But hopefully I can use it professionally.
+- Desktop:: **[Arch Linux](https://archlinux.org)** with **[Sway](https://swaywm.org)**
+- Favorite themes:: **[Gruvbox](https://github.com/morhetz/gruvbox)**, **[Gruvbox Material](https://github.com/sainnhe/gruvbox-material)**, **[Catppuccin](https://github.com/catppuccin)**
+- Currently learning:: **[Rust](https://rust-lang.org)**, for personal purposes
 
 ### Languages that ...
 | ... they made me learn | ... I wanted to learn for a purpose | .. I had learned for the theory | ... I learn and use and love |
