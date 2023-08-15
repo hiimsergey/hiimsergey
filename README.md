@@ -1,9 +1,11 @@
 ## hey 👋
 Welcome to my humble profile.
 
-- Desktop:				**[Arch Linux](https://archlinux.org)** with **[Sway](https://swaywm.org)**
-- Favorite themes:		**[Gruvbox](https://github.com/morhetz/gruvbox)**, **[Gruvbox Material](https://github.com/sainnhe/gruvbox-material)**, **[Catppuccin](https://github.com/catppuccin)**
-- Currently learning:	**[Rust](https://rust-lang.org)**, for personal purposes
+- Current Setup:				**Arch Linux** with **Sway**
+  - Distros I used: **Mint**, **KDE neon**, **EndeavourOS**
+  - DE/WMs I used: **Cinnamon**, **Plasma**, **Qtile**, **Hyprland**
+- Favorite themes:		**Gruvbox Material**, **Everforest**, **Catppuccin**
+- Currently learning:	**Rust**, for personal purposes
 
 ### Languages that ...
 | ... they made me learn | ... I wanted to learn for a purpose | .. I had learned for the theory | ... I learn and use and love |
