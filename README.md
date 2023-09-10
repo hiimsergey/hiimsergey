@@ -1,10 +1,10 @@
 ## hey 👋
 Welcome to my humble profile.
 
-- Current Setup:				**Arch Linux** with **Sway**
-  - Distros I used: **Mint**, **KDE neon**, **EndeavourOS**
-  - DE/WMs I used: **Cinnamon**, **Plasma**, **Qtile**, **Hyprland**
-- Favorite colorschemes:		**Gruvbox Material**, **Everforest**, **Catppuccin**
+- Current Setup: **Arch Linux** with **Sway**
+  - Distros I used before: **Mint**, **KDE neon**, **EndeavourOS**
+  - DE/WMs I used before: **Cinnamon**, **Plasma**, **Qtile**, **Hyprland**
+- Favorite colorschemes: **Gruvbox Material**, **Everforest**, **Catppuccin**
 - Currently learning:	**Rust**, for personal purposes
 
 ### Languages that ...
