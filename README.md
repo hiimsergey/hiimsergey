@@ -1,6 +1,4 @@
-## hey 👋
-Welcome to my humble profile.
-
+## 👋
 - Current Setup: **Arch Linux** with **Qtile**
   - Distros I used before: **Mint**, **KDE neon**, **EndeavourOS**
   - DE/WMs I used before: **Cinnamon**, **Plasma**, **Qtile**, **Hyprland**
