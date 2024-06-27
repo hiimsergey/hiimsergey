@@ -1,1 +1,1 @@
-# Moved to [GitLab](https://gitlab.com/sergeylavrent)
+# https://gitlab.com/sergeylavrent
